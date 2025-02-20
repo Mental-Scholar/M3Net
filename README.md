@@ -1,0 +1,2 @@
+Since M3Net has entered the commercial application process, we encourage you to directly contact the authors to obtain the M3Net's project code.
+Of course, reproducing, applying or improving M3Net is not difficult (due to its lack of complex deep structures), so we also encourage those in need to review our oral presentation materials, where there are more fundamental explanations for reproducing M3Net.
